@@ -42,7 +42,7 @@ Under this blog post, we will see how to bring Dockerworx Ready Solution for Pro
 - SD-Formatter – to format microSD card
 - Win32 disk imager(in case you have Windows OS running on your laptop) – to burn Raspbian Jessie ISO into microSD card
 
-Steps:
+## Steps:
 
 Format the microSD card using SD Formatter. Insert the microSD card into your Pi box. Now connect the HDMI cable  from one end of Pi’s HDMI slot to your TV or display unit and mobile charger(recommended 5.1V@1.5A).
 
